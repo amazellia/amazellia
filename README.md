@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+
+This is where I make magic! 
+
 <!--
-**amazellia/amazellia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amazellia/amazellia** is a  _special_ C repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

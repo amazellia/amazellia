@@ -1,7 +1,8 @@
-### Hi there 👋
+### Wassup! 👋
 
+an artist that codes.
 
-This is where I make magic! 
+This is where I code magic! 
 
 <!--
 **amazellia/amazellia** is a  _special_ C repository because its `README.md` (this file) appears on your GitHub profile.
